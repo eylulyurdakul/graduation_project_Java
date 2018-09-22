@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/profile.jsp=UTF-8
+encoding//src/edu/sabanciuniv/cs/web/ControllerServlet.java=UTF-8
+encoding//src/edu/sabanciuniv/cs/web/JobSubmissionServlet.java=UTF-8
+encoding//src/edu/sabanciuniv/cs/web/db/DBManager.java=UTF-8
